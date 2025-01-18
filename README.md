@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Swift: division by zero when calculating the average of an array of numbers. The `bug.swift` file shows the faulty code, resulting in a runtime crash. The `bugSolution.swift` file provides a corrected version that handles the edge case of an empty array gracefully.
